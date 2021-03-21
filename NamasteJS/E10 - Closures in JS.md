@@ -24,8 +24,8 @@ z();
 
 Output:
 >f y(){
-    console.log(a);
-}
+>    console.log(a);
+>}
 >7
 
 ### Observation
